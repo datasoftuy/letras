@@ -21,7 +21,7 @@ namespace Caracteres
             
            
             
-            Console.WriteLine("Su Nombre Compelto es: " + nombre + apellido);
+            Console.WriteLine("Su Nombre Compffffffffffffffffffffffffffelto es: " + nombre + apellido);
 
             Console.ReadLine();
 
