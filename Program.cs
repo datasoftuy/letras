@@ -13,7 +13,7 @@ namespace Caracteres
 
             string nombre, apellido;
 
-            Console.WriteLine("Ingrese Nombddddre");
+            Console.WriteLine("Ingrese Nombre");
             
             nombre = Console.ReadLine();
             Console.WriteLine("Ingrese Apellido");
@@ -21,7 +21,7 @@ namespace Caracteres
             
            
             
-            Console.WriteLine("Su Nombre Compffffffffffffffffffffffffffelto es: " + nombre + apellido);
+            Console.WriteLine("Su Nombre Compelto es: " + nombre + apellido);
 
             Console.ReadLine();
 
